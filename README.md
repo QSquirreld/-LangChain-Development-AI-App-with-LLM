@@ -37,4 +37,5 @@
 
 ## Связанные проекты
 
+- [LangChain Agents: jsonParser + ReAct with local LLM](https://github.com/QSquirreld/LangChain-Agents-jsonParser-ReAct-with-local-LLM) — ИИ Агенты: ReAct + WebSearch и jsonParser.
 - [Improved Streamlit GigaChat App](https://github.com/QSquirreld/Improved-Streamlit-GigaChat-App) — Интерактивное веб-приложение на базе Streamlit для общения с GigaChat API.
